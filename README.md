@@ -9,7 +9,7 @@ Create a folder with your game's ID as the name (which varies by region):
 
 USA: 00040000001B8700, EUR: 000400000017CA00, JPN: 000400000017FD00.
 
-Download and drop the provided romfs folder into that folder with the game ID, then move the resulting folder to the following location: (your microSD)/luma/titles. 
+Download and drop the provided romfs folder into that folder with the game ID, then move the resulting folder to the following location: **(your microSD)/luma/titles**. 
 If you've downloaded mods for this game before, it's likely that the folder with the game ID already exists.
 
 Make sure you have game patching enabled in your Luma settings and you've removed any other mods likely to be incompatible.
