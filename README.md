@@ -5,7 +5,8 @@ Major thanks to **SuperCatElvis** on Curseforge for originally porting over the 
 
 **Installation**
 
-Create a folder with your game's ID as the name (which varies by region): USA: 00040000001B8700, EUR: 000400000017CA00, JPN: 000400000017FD00.
+Create a folder with your game's ID as the name (which varies by region):
+USA: 00040000001B8700, EUR: 000400000017CA00, JPN: 000400000017FD00.
 Download and drop the provided romfs folder into that folder with the game ID, then move the resulting folder to the following location: (your microSD)/luma/titles. 
 If you've downloaded mods before, it's likely that the folder with the ID already exists.
 
